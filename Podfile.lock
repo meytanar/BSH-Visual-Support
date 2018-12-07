@@ -1,0 +1,16 @@
+PODS:
+  - LTMorphingLabel (0.5.9)
+
+DEPENDENCIES:
+  - LTMorphingLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LTMorphingLabel
+
+SPEC CHECKSUMS:
+  LTMorphingLabel: e6047354486aa4ba52d36ccc40be8874b50e1ef1
+
+PODFILE CHECKSUM: fb28d8fe975e7e3aad3abcd309a00f8a49270658
+
+COCOAPODS: 1.5.3
